@@ -1,2 +1,3 @@
-# OpenMV_identification
-a line and road sign identification program
+# 红线识别 & 路标识别
+智能小车比赛时遗留的视觉代码，作为学习记录放在仓库里
+通过uart与stm32进行双向通信，选择进入红线识别模式还是路标识别模式
